@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.90d81f11.css",
-    "main.js": "/static/js/main.750ed7f3.js",
+    "main.css": "/static/css/main.a1299766.css",
+    "main.js": "/static/js/main.4eecf423.js",
     "static/js/703.0acf96a0.chunk.js": "/static/js/703.0acf96a0.chunk.js",
     "static/js/142.5273d003.chunk.js": "/static/js/142.5273d003.chunk.js",
     "static/media/inst.png": "/static/media/inst.80e598d8df0c0a94d580.png",
-    "static/media/matrix-bg.png": "/static/media/matrix-bg.744e58f4bcd4478b1284.png",
-    "static/media/heart.png": "/static/media/heart.78246fb00588b2fdc942.png",
     "static/media/tg.png": "/static/media/tg.22c1477df3427953631c.png",
-    "static/media/dollar.png": "/static/media/dollar.9421197a1f75deea3655.png",
+    "static/media/matrix-bg.png": "/static/media/matrix-bg.3d12ccac51131b6daa45.png",
+    "static/media/heart.png": "/static/media/heart.83ec8e6343f1a152c64e.png",
+    "static/media/main-logo.png": "/static/media/main-logo.31835f9846cb71cd8b5e.png",
+    "static/media/dollar.png": "/static/media/dollar.9a5eea06e74f9d1b8d62.png",
     "index.html": "/index.html",
-    "main.90d81f11.css.map": "/static/css/main.90d81f11.css.map",
-    "main.750ed7f3.js.map": "/static/js/main.750ed7f3.js.map",
+    "main.a1299766.css.map": "/static/css/main.a1299766.css.map",
+    "main.4eecf423.js.map": "/static/js/main.4eecf423.js.map",
     "703.0acf96a0.chunk.js.map": "/static/js/703.0acf96a0.chunk.js.map",
     "142.5273d003.chunk.js.map": "/static/js/142.5273d003.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.90d81f11.css",
-    "static/js/main.750ed7f3.js"
+    "static/css/main.a1299766.css",
+    "static/js/main.4eecf423.js"
   ]
 }
